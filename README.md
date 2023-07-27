@@ -6,12 +6,12 @@
 I am interested in applications of Data Science and Optimization to complex operational and transportation challenges.
 
 
-🧑🏻‍🎓 
+🧑🏻‍🎓 **Education:**
 - Master of Business Analytics @ **MIT** (2022-2023)
 - MSc, BSc in Applied Math & Operations Engineering @ **CentraleSupélec & Ecole Polytechnique de Bruxelles** (2016-2022)
 
   
-💻 
+💻 **Experience:**
 - Research Assistant @ **MIT Operations Research Center**, supervised by Prof. Jacquillat (2023)
 - Capstone Project @ **Coca-Cola SWB** (2023)
 
