@@ -19,4 +19,4 @@ I am interested in applications of Data Science and Optimization to complex oper
 - Microtransit services optimization : [Poster](https://github.com/maiwenndanno/RA-Microtransit/blob/6dff62b4af6ef20f3b5f45c09e541d2115efb4f5/4_deliverables/Poster.pdf), [Report](https://github.com/maiwenndanno/RA-Microtransit/blob/6dff62b4af6ef20f3b5f45c09e541d2115efb4f5/4_deliverables/Report.pdf), [Repository](https://github.com/maiwenndanno/RA-Microtransit.git)
 - Bluebikes rebalancing optimization : [Poster](https://github.com/chesterkv/15.093-Optimization/blob/main/deliverables/poster.pdf), [Report](https://github.com/chesterkv/15.093-Optimization/blob/4a11786faf15368952323987701c403c6845b30e/deliverables/final_report.pdf), [Repository](https://github.com/chesterkv/15.093-Optimization.git)
 
-✉️ Please feel free to reach out via [my Linkedin profile](https://www.linkedin.com/in/maiwenndanno/) or email [maiwenn@mit.edu](maiwenn@mit.edu) !
+✉️ Please feel free to reach out via [my Linkedin profile](https://www.linkedin.com/in/maiwenndanno/) or email at [maiwenn@mit.edu](maiwenn@mit.edu) !
