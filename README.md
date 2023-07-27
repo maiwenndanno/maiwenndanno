@@ -16,7 +16,7 @@ I am interested in applications of Data Science and Optimization methods to comp
 - Capstone Project @ **Coca-Cola SWB** (2023)
 
 **Relevant transportation projects:**
-- Microtransit services optimization : [Poster](), [Repository]()
+- Microtransit services optimization : [Poster](), [Repository](https://github.com/maiwenndanno/RA-Microtransit.git)
 - Bluebikes rebalancing optimization : [Poster](), [Repository]()
 
 ✉️ Please feel free to reach out via Linkedin or email maiwenn@mit.edu !
