@@ -12,7 +12,7 @@ I am interested in applications of Data Science and Optimization to complex oper
 
   
 💻 
-- Research Assistant @ **MIT Operation Research Center**, supervised by Prof. Jacquillat (2023)
+- Research Assistant @ **MIT Operations Research Center**, supervised by Prof. Jacquillat (2023)
 - Capstone Project @ **Coca-Cola SWB** (2023)
 
 **Relevant projects:**
