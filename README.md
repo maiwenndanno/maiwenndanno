@@ -17,6 +17,6 @@ I am interested in applications of Data Science and Optimization methods to comp
 
 **Relevant transportation projects:**
 - Microtransit services optimization : [Poster](), [Repository](https://github.com/maiwenndanno/RA-Microtransit.git)
-- Bluebikes rebalancing optimization : [Poster](), [Repository](https://github.com/chesterkv/15.093-Optimization.git)
+- Bluebikes rebalancing optimization : [Poster](https://github.com/chesterkv/15.093-Optimization/blob/main/deliverables/poster.pdf), [Repository](https://github.com/chesterkv/15.093-Optimization.git)
 
 ✉️ Please feel free to reach out via Linkedin or email maiwenn@mit.edu !
