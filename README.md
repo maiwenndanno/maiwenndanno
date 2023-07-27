@@ -1,4 +1,4 @@
-### Hi, my name is Maïwenn,
+### Hi, I'm Maïwenn,
 
 <!--
 **maiwenndanno/maiwenndanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
