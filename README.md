@@ -3,7 +3,7 @@
 <!--
 **maiwenndanno/maiwenndanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am interested in applications of Data Science and Optimization to complex operational and transportation challenges.
+I am interested in applications of Data Science and Optimization to complex challenges, especially in operations.
 
 
 🧑🏻‍🎓 **Education:**
